@@ -1,0 +1,208 @@
+houses:
+  - name: East Cottage
+    capacity: 4
+  - name: Memorial House
+    capacity: 3
+  - name: Tenny House
+    capacity: 3
+  - name: Atwater
+    capacity: 3
+
+size: 4
+
+ballots:
+  - name: Max Fan
+    rankings:
+      - name: Tenny House
+        weight: 20
+      - name: Memorial House
+        weight: 5
+      - name: East Cottage
+        weight: 30
+      - name: Atwater
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: James Doe
+    rankings:
+      - name: Tenny House
+        weight: 5
+      - name: Memorial House
+        weight: 31
+      - name: East Cottage
+        weight: 10
+      - name: Atwater
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: Albert
+    rankings:
+      - name: Tenny House
+        weight: 32
+      - name: Memorial House
+        weight: 5
+      - name: East Cottage
+        weight: 10
+      - name: Atwater
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: Person A
+    rankings:
+      - name: Tenny House
+        weight: 36
+      - name: Memorial House
+        weight: 5
+      - name: East Cottage
+        weight: 10
+      - name: Atwater
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: Person B
+    rankings:
+      - name: Tenny House
+        weight: 31
+      - name: Memorial House
+        weight: 5
+      - name: East Cottage
+        weight: 10
+      - name: Atwater
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: Person C
+    rankings:
+      - name: Tenny House
+        weight: 31
+      - name: Memorial House
+        weight: 5
+      - name: East Cottage
+        weight: 10
+      - name: Atwater
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: Person D
+    rankings:
+      - name: Tenny House
+        weight: 30
+      - name: Memorial House
+        weight: 5
+      - name: East Cottage
+        weight: 10
+      - name: Atwater
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: John Doe
+    rankings:
+      - name: Atwater
+        weight: 30
+      - name: Tenny House
+        weight: 5
+      - name: East Cottage
+        weight: 10
+      - name: Memorial House
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: John Doe 1
+    rankings:
+      - name: Atwater
+        weight: 30
+      - name: Tenny House
+        weight: 5
+      - name: East Cottage
+        weight: 10
+      - name: Memorial House
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: John Doe 2
+    rankings:
+      - name: Atwater
+        weight: 30
+      - name: Tenny House
+        weight: 5
+      - name: East Cottage
+        weight: 10
+      - name: Memorial House
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: John Doe 3
+    rankings:
+      - name: Atwater
+        weight: 30
+      - name: Tenny House
+        weight: 5
+      - name: East Cottage
+        weight: 10
+      - name: Memorial House
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: John Doe 4
+    rankings:
+      - name: Atwater
+        weight: 30
+      - name: Tenny House
+        weight: 5
+      - name: East Cottage
+        weight: 10
+      - name: Memorial House
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
+  - name: John Doe 5
+    rankings:
+      - name: Atwater
+        weight: 30
+      - name: Tenny House
+        weight: 5
+      - name: East Cottage
+        weight: 10
+      - name: Memorial House
+        weight: 1
+    pairings:
+      - name: James Doe
+        weight: 5
+      - name: Albert
+        weight: 3
